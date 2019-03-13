@@ -1,0 +1,13 @@
+{
+  "mqtt_host": "mqtt.xxx.net",
+  "mqtt_port": 8883,
+  "username": "user",
+  "password": "xxx",
+  "mqtt_prefix": "/home/MaxCube",
+  "mqtt_message_timeout": 60,
+  "max_cube_ip_adress": "192.168.0.0",
+  "max_topology_refresh_interval": 30,
+  "max_mqtt_update_interval": 300,
+  "max_cube_duty_cycle_reset_interval": 3600,
+  "max_perform_sanity_check" : true
+}

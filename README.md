@@ -1,4 +1,4 @@
-# max-mqtt
+# max-mqtt https://github.com/Iture/max-mqtt
 
 Project delivers MQTT gateway for [EQ-3 Max!](https://max.eq-3.de/login.jsp) heating control system.
 
